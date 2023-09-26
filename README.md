@@ -1,4 +1,4 @@
-RANDO-BALL
+RANDOM-BALL
      Random ball is makes a ten balls to bounce between a fixed location in different velocity.There are 10 Balls created with different colors using HTML and CSS.It is made to bounce  using javascript programming.
      
 STEPS TO RUN THE PROJECT
